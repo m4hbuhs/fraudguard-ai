@@ -1,3 +1,27 @@
+# Dependencies
+node_modules/
+myenv/
+__pycache__/
+*.pyc
+
+# Model artifacts
 *.csv
-myenv
 *.pkl
+*.pth
+
+# Environment
+.env
+.env.local
+
+# Build
+.next/
+out/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

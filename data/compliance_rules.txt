@@ -1,0 +1,4 @@
+REG-001: Any cross-border transactions surpassing $2,000 require multi-factor verification checks.
+REG-002: Geographic location shifts greater than 500 kilometers within a 2-hour window are categorized as velocity anomalies and must be flagged instantly.
+REG-003: Merchants registered with code MER0145 are placed under dynamic surveillance due to an 40% uptick in card-testing script activities.
+REG-004: If a user reports a temporary card loss via support channels, any consecutive high-amount charges within 24 hours must be routed to step-up authentication.
