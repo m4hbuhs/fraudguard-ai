@@ -10,15 +10,15 @@ Unlike traditional fraud detection systems that rely on a single prediction mode
 
 # Features
 
-* ⚡ Real-time fraud detection
-* 🧠 Hybrid AI architecture (XGBoost + PyTorch LSTM)
-* 🤖 Explainable AI using Gemini + LangChain
-* 📚 Retrieval-Augmented Generation (RAG)
-* 🔍 Compliance rule retrieval using FAISS
-* 📊 Interactive analyst dashboard built with Next.js
-* 🗄 PostgreSQL database with SQLAlchemy ORM
-* 🔄 Automatic customer registration during transaction ingestion
-* 📈 Enterprise-ready modular architecture
+*  Real-time fraud detection
+*  Hybrid AI architecture (XGBoost + PyTorch LSTM)
+*  Explainable AI using Gemini + LangChain
+* Retrieval-Augmented Generation (RAG)
+*  Compliance rule retrieval using FAISS
+*  Interactive analyst dashboard built with Next.js
+*  PostgreSQL database with SQLAlchemy ORM
+*  Automatic customer registration during transaction ingestion
+*  Enterprise-ready modular architecture
 
 ---
 
@@ -406,7 +406,7 @@ The PostgreSQL database stores:
 
 ---
 
-#  Future Improvements
+# Future Improvements
 
 * Kafka event streaming
 * Redis caching
